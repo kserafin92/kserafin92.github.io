@@ -1,6 +1,6 @@
 $(document).ready(function() {
   const apiRoot = 'https://4c172874-8495-4bd4-a87f-beb46b49b14b-00-202pp8q96kjsd.picard.replit.dev/v1/tasks';
-  const trelloApiRoot = 'https://trello.com/b/8RwTHSCP/kodilla-application';
+  const trelloApiRoot = 'https://4c172874-8495-4bd4-a87f-beb46b49b14b-00-202pp8q96kjsd.picard.replit.dev/v1/trello';
   const datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
   const $tasksContainer = $('[data-tasks-container]');
 
